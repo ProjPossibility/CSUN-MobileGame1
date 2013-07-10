@@ -1,8 +1,8 @@
 <?php
-	$host = 'bookboi1980.db.8480854.hostedresource.com';
-	$user = 'bookboi1980';
-	$password = 'Denver281980';
-	$db_name = 'bookboi1980';
+	$host = '';
+	$user = '';
+	$password = '';
+	$db_name = '';
 	$tbl_game_state = 'game_state';	
 	$tbl_user = 'ss12_user';
 	$lobby_table_name = 'lobby';
